@@ -1,11 +1,14 @@
 {
-  "name": "cantina_system",
+  "name": "cantinaorgelectron",
   "version": "1.0.0",
-  "description": "Just a system to organice some things related to planning a cantina.",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "electron": "^31.1.0"
+  }
 }
