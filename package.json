@@ -2,9 +2,9 @@
   "name": "cantina_system",
   "version": "1.0.0",
   "description": "Just a system to organice some things related to planning a cantina.",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "author": "",
   "license": "ISC"
